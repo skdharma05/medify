@@ -1,5 +1,5 @@
 .env
 venv/
-
+temp_uploads/
 __pycache__/
 *.py[cod]
