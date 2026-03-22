@@ -1,4 +1,4 @@
-# 🧠 Medify — Resume Q&A System with Gemini AI
+# 🧠 Resume Q&A System with Gemini AI
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.116+-green.svg)
