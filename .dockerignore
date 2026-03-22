@@ -1,0 +1,38 @@
+# Git
+.git/
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment files (never bake secrets into the image)
+.env
+.env.*
+!.env.example
+
+# Uploaded files (runtime data, not part of the image)
+temp_uploads/
+app/temp_uploads/
+
+# Development / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing
+test_api.py
+tests/
+
+# Documentation
+README.md
+*.md

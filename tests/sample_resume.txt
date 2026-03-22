@@ -1,0 +1,49 @@
+John Doe
+Software Engineer
+john.doe@email.com | +91-9876543210 | github.com/johndoe | linkedin.com/in/johndoe
+
+SUMMARY
+-------
+Backend engineer with 4 years of experience building scalable Python APIs and data pipelines.
+Passionate about clean code, system design, and AI/ML integrations.
+
+SKILLS
+------
+Languages   : Python, JavaScript, SQL
+Frameworks  : FastAPI, Django, React
+Databases   : PostgreSQL, Redis, MongoDB
+Cloud       : AWS (EC2, S3, Lambda), GCP (Cloud Run, GCS)
+DevOps      : Docker, Kubernetes, GitHub Actions, Terraform
+AI/ML       : LangChain, LlamaIndex, Gemini API, HuggingFace
+
+EXPERIENCE
+----------
+Senior Backend Engineer — TechCorp Pvt Ltd, Bengaluru
+Jan 2022 – Present
+- Built a real-time document processing pipeline handling 50K files/day using FastAPI and Celery
+- Reduced API response latency by 40% through Redis caching and query optimization
+- Led migration from monolith to microservices architecture (Python + Docker + Kubernetes)
+
+Backend Engineer — StartupXYZ, Remote
+Jun 2020 – Dec 2021
+- Developed REST APIs in Django REST Framework for a fintech product with 20K+ active users
+- Integrated Stripe payment gateway and automated invoice generation
+- Wrote unit and integration tests achieving 85% code coverage
+
+EDUCATION
+---------
+B.Tech in Computer Science — XYZ University, 2020
+CGPA: 8.4/10
+
+CERTIFICATIONS
+--------------
+- Google Professional Cloud Developer (2023)
+- AWS Certified Developer – Associate (2022)
+
+PROJECTS
+--------
+Resume AI (github.com/johndoe/resume-ai)
+  An open-source resume Q&A system using LlamaIndex and Gemini AI — 200+ GitHub stars
+
+SmartBudget (github.com/johndoe/smartbudget)
+  Personal finance tracker built with FastAPI + React + PostgreSQL
